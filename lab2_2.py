@@ -2,7 +2,7 @@
 """
 Created on Tue Aug  7 13:45:08 2018
 
-@author: Student
+@author: Ashish Jha
 """
 from math import *
 def euclidean(x,y):
